@@ -1,3 +1,9 @@
+---
+title:  "Lendava photos"
+date:   2016-06-20
+description: Photos Slovenia
+---
+
 Here are some of the photos I have taken so far on this trip.
 
 This is the school, DSŠL.
