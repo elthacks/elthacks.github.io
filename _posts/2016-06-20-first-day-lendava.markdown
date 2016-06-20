@@ -6,11 +6,11 @@ description: Teaching Slovenia
 
 ### Teaching in Slovenia
 
-So, this is a document where I'm going to keep all my notes from classes and sessions that I teach or observe while here on this trip in Slovenia. I'm visiting [DSŠL (Dvojeznična Sredna Šola Lendava) in Lendava](http://www.dssl.si/sl/), which is situated in the north east of Slovenia, really near to the border with Hungary. In fact, this is a bilingual school, and lessons are taught in Slovene and Hungarian. Lendava is Lendva in Hungarian (I'm guessing from the road signs).
+So, this is a blog where I'm going to keep all my notes from classes and sessions that I teach or observe while here on this trip in Slovenia. I'm visiting [DSŠL (Dvojeznična Sredna Šola Lendava) in Lendava](http://www.dssl.si/sl/), which is situated in the north east of Slovenia, really near to the border with Hungary. In fact, this is a bilingual school, and lessons are taught in Slovene and Hungarian. Lendava is Lendva in Hungarian (I'm guessing from the road signs).
 
 #### Monday 20 June 2016
 
-I taught 2A, the second grade of high school here – which starts from the age of 15. So that means that this was a group of 16/17 year olds in their penultimate year of secondary school. DSŠL is a vocational/technical school, but this group were the gimnazija, meaning that they follow a more academic path.
+I taught 2A, the second grade of high school here – which starts from the age of 15. So that means that this was a group of 16/17 year olds in the second year out of four in secondary school. DSŠL is a vocational/ technical school, but this group were the gimnazija, meaning that they follow a more academic path.
 
 **The lesson**
 
