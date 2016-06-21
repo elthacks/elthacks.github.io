@@ -1,5 +1,5 @@
 name: ELThacks
-description: Blogging about ELT and stuffs
+description: Blogging about a teaching trip to Slovenia
 meta_description: "ELThacks, Blogging about ELT and stuffs"
 
 aboutPage: true
@@ -9,7 +9,7 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://elthacks.girhub.io'
+domain_name: 'http://elthacks.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: true
 disqus_shortname: 'mikeharrisonmedia'
