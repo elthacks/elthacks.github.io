@@ -173,6 +173,7 @@ p a { color: #5694f1; }
 
 .footnote {
 	vertical-align: super;
+	font-size: 14px;
 }
 
 /*Transitions*/
