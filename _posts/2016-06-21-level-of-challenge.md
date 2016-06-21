@@ -3,6 +3,7 @@ title:  "Getting the level of challenge right"
 layout: post
 date:   2016-06-20
 description: Teaching Slovenia
+comments: true
 ---
 
 Second day at DSŠL and second day of teaching – although I wasn't expecting to give a lesson today. I'd originally expected to arrive at 10am to observe and help out during a session focusing on a project on Physics and English. Students had been studying physics and English kind of in tandem over the year culminating in this project; they watched the film Interstellar and then chose a theme from the picture to investigate and present.
