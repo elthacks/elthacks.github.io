@@ -171,6 +171,10 @@ a,
 
 p a { color: #5694f1; }
 
+.footnote {
+	vertical-align: super;
+}
+
 /*Transitions*/
 a,
 #post-nav a,
