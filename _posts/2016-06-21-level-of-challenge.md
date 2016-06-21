@@ -1,7 +1,7 @@
 ---
 title:  "Getting the level of challenge right"
 layout: post
-date:   2016-06-20
+date:   2016-06-21
 description: Teaching Slovenia
 comments: true
 ---
