@@ -15,5 +15,5 @@ So, what am I going to do? Well, I'm still sticking with something open-ended, b
 
 That's the first lesson tomorrow morning. In the second, I'd like to set them the challenge of presenting something about their studies and school. Let's see how we get on with that ;)
 
-[^1]Task-based language teaching
-[^2]Content and language integrated learning
+[^1]: Task-based language teaching
+[^2]: Content and language integrated learning
