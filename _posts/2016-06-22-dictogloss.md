@@ -8,7 +8,7 @@ Today I had another lesson with the same third grade class I taught yesterday. I
 
 > **Leave-taking**
 
-He took her hand
+> He took her hand
 
 
-[^1]You can read the pdf on Scott's [website](http://nebula.wsimg.com/5836cc3d2780269ae1e20864e6b72565?AccessKeyId=186A535D1BA4FC995A73&disposition=0&alloworigin=1)
+[^1]: You can read the pdf on Scott's [website](http://nebula.wsimg.com/5836cc3d2780269ae1e20864e6b72565?AccessKeyId=186A535D1BA4FC995A73&disposition=0&alloworigin=1)
