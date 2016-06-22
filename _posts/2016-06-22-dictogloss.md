@@ -6,7 +6,8 @@ description: A bit of word grammar courtesy of Thornbury
 
 Today I had another lesson with the same third grade class I taught yesterday. I did a dictogloss of a text I first saw in an article by Scott Thornbury[^1] in [English Teaching professional](https://www.etprofessional.com/etp/default.aspx) – Leave-taking. Here is the text for your reading pleasure.
 
-> *Leave-taking*
+> **Leave-taking**
+
 He took her hand
 
 
