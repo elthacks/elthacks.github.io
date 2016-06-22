@@ -9,12 +9,19 @@ Today I had another lesson with the same third grade class I taught yesterday. I
 > **Leave-taking**
 >
 > He took her hand. She took his money.
+>
 > He took a lover.
+>
 > She took exception. He took leave of his senses. She took advice.
+>
 > He took fright.
+>
 > She took him to the cleaner's. He took to drink.
+>
 > She took a holiday.
+>
 > He took his life.
+>
 > She took up ballroom dancing.
 
 The idea is that this shows just how much meaning and language is linked with that one verb, *take*; just look – we've got phrases for 'becoming an alcoholic', 'getting married', 'taking all of someone's money' and so on. Maybe not all such high frequency subjects, but interesting nonetheless.
