@@ -1,7 +1,7 @@
 ---
 title:  "First day teaching in Lendava"
 date:   2016-06-20
-description: Teaching Slovenia
+description: Thoughts from my first day of teaching in Slovenia
 ---
 
 ### Teaching in Slovenia
