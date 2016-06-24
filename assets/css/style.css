@@ -283,6 +283,11 @@ p.small {
 	display: block;
 }
 
+img + em {
+	text-align: center;
+	font-size: 14px;
+}
+
 blockquote {
 	padding-left: 15px;
 	border-left: 3px solid #eee;
