@@ -14,9 +14,9 @@ I went back to my hotel to pack for the journey back to Ljubljana tomorrow – I
 Yesterday was 'sport day' which meant that all the students and teachers could go to the local swimming pool (at a nearby hotel) for the morning. I think this and the ceremony today are a great way to end the year and send off the students on their summer break :)
 
 ![Prize winners](https://raw.githubusercontent.com/elthacks/elthacks.github.io/master/assets/images/prize-winners.jpg)
-*The prize winners*
+<p style="text-align: center;">*The prize winners*</p>
 
 ![The Cultural Centre in Lendava](https://raw.githubusercontent.com/elthacks/elthacks.github.io/master/assets/images/cultural-centre.jpg)
-*Zavod za kulturo in promocijo Lendava*
+<p style="text-align: center;">*Zavod za kulturo in promocijo Lendava*</p>
 
 Unfortunately I didn't get any photos of the robot! If you can understand Slovenian, then you can find out more on the [DSŠL website](http://www.dssl.si/robobum-2016/).
