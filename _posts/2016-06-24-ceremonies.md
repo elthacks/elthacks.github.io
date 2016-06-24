@@ -17,6 +17,6 @@ Yesterday was 'sport day' which meant that all the students and teachers could g
 <p class="caption">The prize winners</p>
 
 ![The Cultural Centre in Lendava](https://raw.githubusercontent.com/elthacks/elthacks.github.io/master/assets/images/cultural-centre.jpg)
-<p class="caption">*Zavod za kulturo in promocijo Lendava*</p>
+<p class="caption">Zavod za kulturo in promocijo Lendava</p>
 
 Unfortunately I didn't get any photos of the robot! If you can understand Slovenian, then you can find out more on the [DSŠL website](http://www.dssl.si/robobum-2016/).
