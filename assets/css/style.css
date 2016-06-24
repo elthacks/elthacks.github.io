@@ -283,7 +283,7 @@ p.small {
 	display: block;
 }
 
-img + em {
+img+em {
 	text-align: center;
 	font-size: 14px;
 }
