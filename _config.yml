@@ -10,9 +10,9 @@ highlighter: pygments
 paginate: 20
 baseurl: /
 domain_name: 'http://elthacks.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: #'UA-XXXXXXXX-X'
 disqus: true
-disqus_shortname: 'mikeharrisonmedia'
+disqus_shortname: #'mikeharrisonmedia'
 
 # Details for the RSS feed generator
 url:            'http://elthacks.github.io'
